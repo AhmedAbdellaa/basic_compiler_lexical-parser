@@ -6,7 +6,8 @@ compiler also efficiently makes the end code which is optimized for execution ti
 memory space./
 The compiling method involves simple translation and error detection mechanisms. Compiler
 process goes through front-end lexical, syntax, and semantic analysis, and back-end code
-generation and optimization.
+generation and optimization.\
+\
 **2. Language description**
 A program in this language consists of a main C function in which we can:\
 • Declare integer, floating point and character variables.\
