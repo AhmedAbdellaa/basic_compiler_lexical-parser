@@ -1,0 +1,13 @@
+//Code 5 : represent lexical analysis error
+int main(){
+//here is an inline comment
+/* here
+is scope
+comment
+*/
+int 1gx = 13;
+if(1)
+1gx = 14;
+else
+return 0;
+}

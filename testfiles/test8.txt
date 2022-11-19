@@ -1,0 +1,7 @@
+//Code 8: represent parser error
+int main(){
+int x = 2;
+int y = 3;
+int z = +y;
+return 0;
+}

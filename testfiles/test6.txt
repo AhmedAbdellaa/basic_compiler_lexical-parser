@@ -1,0 +1,11 @@
+//Code 6 : represent lexical analysis error
+/* here
+is scope
+unterminated
+comment
+int x = 13;
+if(1)
+x = 14;
+else
+return 0;
+}

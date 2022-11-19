@@ -1,0 +1,11 @@
+//Code 1:
+int main() {
+float x= 7.3;
+float y = 3.2;
+int i = x + y;
+int j = x - y;
+if(i>j)
+return i;
+else
+return j;
+}

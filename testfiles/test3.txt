@@ -1,0 +1,11 @@
+//Code 3 :
+int main (){
+int x = 6 ;
+int y = 3;
+if(5+x){
+if(x>y)
+return 1;
+else
+return 0;
+}
+}

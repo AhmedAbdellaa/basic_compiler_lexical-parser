@@ -1,0 +1,7 @@
+//Code 2 :
+int main (){
+int x = 6 ;
+if(5+x){
+return 1;
+}
+}

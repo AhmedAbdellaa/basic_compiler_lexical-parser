@@ -1,0 +1,7 @@
+//Code 9 : represent parser error
+int main(){
+int x = 2;
+int y = 3;
+int z = x y;
+return 0;
+}

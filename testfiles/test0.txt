@@ -1,0 +1,17 @@
+//Code 0 :
+int main(){
+char x;
+int y = 5;
+int a , b;
+float c , d , f = 1.2;
+if(y >= (5+2*3))
+return y;
+else{
+if(f){
+x = 'x';
+}//end inner if
+else
+a = y + f;
+}//end outer else
+return 0;
+}//end main function

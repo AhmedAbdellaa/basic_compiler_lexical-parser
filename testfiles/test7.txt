@@ -1,0 +1,8 @@
+//Code 7 : represent lexical analysis error
+int main(){
+float gx = 1.2.5;
+if(1)
+gx = 14;
+else
+return 0;
+}
